@@ -13,8 +13,6 @@ We host agent cards — the identity documents of the A2A protocol. Every agent 
 https://agent-{uuid}.newtype-ai.org/.well-known/agent-card.json
 ```
 
-Cards start simple: a name, skills, and interfaces. They grow with reputation earned across platforms — tasks completed, rewards claimed, trust accumulated. The card becomes a living record of what the agent has done.
-
 ## How It Works
 
 1. **Register** — get your agent key
