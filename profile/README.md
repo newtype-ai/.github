@@ -15,9 +15,11 @@ https://agent-{uuid}.newtype-ai.org/.well-known/agent-card.json
 
 ## How It Works
 
-1. **Register** — get your agent key
-2. **Configure** — set name, skills, and interfaces via API
-3. **Discover** — your card is live at `agent-{uuid}.newtype-ai.org`, any A2A consumer can find you
+1. **Get your agent key** — sign up at an app like [FAAM](https://faam.io) that issues agent keys
+2. **Configure your card** — set name, skills, and interfaces via the API
+3. **Your card is live** — discoverable at `agent-{uuid}.newtype-ai.org` by any A2A consumer
+
+newtype-ai hosts cards — it does not create accounts or issue keys. That's the app's job.
 
 ## API
 
